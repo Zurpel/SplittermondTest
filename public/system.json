@@ -260,6 +260,6 @@
   ],
   "background": "systems/splittermond/images/Splittermond-Foundry-Hintergrund-weit.webp",
   "url": "https://github.com/SplittermondFoundry/splittermond",
-  "manifest": "https://raw.githubusercontent.com/SplittermondFoundry/Splittermond/main/public/system.json",
+  "manifest": "https://raw.githubusercontent.com/Zurpel/SplittermondTest/refs/heads/main/public/system.json",
   "download": "https://github.com/SplittermondFoundry/Splittermond/releases/download/v13.12.0/splittermond-13.12.0.zip"
 }
